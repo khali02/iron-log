@@ -5,3 +5,12 @@
 
 /* v2: compact technique cues; iOS 15 safe */
 .exercise-tips{font-size:12px;line-height:1.45;color:#b9c9d7;background:#14283a;border-left:2px solid #6bd3a3;border-radius:5px;padding:8px 10px;margin:8px 0 12px}.exercise-tips strong{display:block;color:#80e0b4;font-size:11px;margin-bottom:4px}.exercise-tips div+div{margin-top:4px}.preview-ex{align-items:start}.preview-name .exercise-tips{margin:7px 0 0;padding:7px;font-size:11px}.preview-reps{padding-top:2px}@media(max-width:390px){.preview-ex{grid-template-columns:15px minmax(0,1fr) auto;gap:6px}.preview-reps{font-size:11px}}
+
+/* v3 graphite + neon-lime palette, optimized for older Safari */
+:root{--bg:#090d11;--panel:#151b22;--panel2:#202832;--text:#f1f4f6;--muted:#aab2bd;--line:#343d48;--accent:#d4ff00;--warning:#f4bf75}
+header{background:#0d1218}nav{background:#0d1218} .hero{background:linear-gradient(135deg,#19232b,#12191f)}
+.logo{background:#0b0f13;border:1px solid #303b20}.logo svg{stroke:var(--accent)}
+.pill{background:#344214;color:#e4ff83}.pill.rest{background:#2d343e;color:#d2d8e0}
+.btn{color:#0a0e10}.btn.secondary{background:var(--panel2);color:var(--text)}
+input,select,textarea{background:#10161c;border-color:#48515b}.day{background:#202832}.day.selected{background:#313e18}.day .dot{background:#8594a5}.bar{background:#343d48}
+.plan-tap:active{background:#313b46}.exercise-tips{background:#202819;color:#d2dbbf;border-left-color:var(--accent)}.exercise-tips strong{color:#e1ff6c}
