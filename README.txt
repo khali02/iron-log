@@ -1,9 +1,9 @@
-IRON LOG v4.5 — WORKOUT SYNC + MEAL BUILDER
+IRON LOG v4.6 — Rest timer always visible
 
-Upload ALL FIVE files to the ROOT of the GitHub Pages repository (replace existing): index.html, app.js, sw.js, nutrition.js, nutrition.css. Keep style.css, manifest.webmanifest, and icons unchanged.
+Replace app.js, index.html, nutrition.js, nutrition.css, and sw.js in the root of your existing GitHub Pages repository. Do not delete style.css, icons, or the manifest.
 
-IMPORTANT: After deployment, the top date in the Workout view must include "v4.5". If not, you are still seeing old files: verify GitHub Pages deployment, open the site in Safari, refresh, close/reopen the Home Screen app, and retry. Do not clear Safari website data unless you have exported a backup.
+New: Rest timer stays fixed just above the bottom navigation while scrolling a workout. The timer is only visible while a workout is open. Its countdown still uses a deadline so scrolling does not pause it. After re-rendering the workout, the countdown display is refreshed.
 
-Home and Open Workout use the same scheduled(today) result, including manual overrides. An unfinished previous workout can be resumed separately. Saved Meals and simplified weekly preview are included.
+Includes prior v4.5 workout-calendar synchronization, meal builder, and training phase updates.
 
-This is a static code review/syntax check, not an iPhone device test.
+Verify the top date reads v4.6 after GitHub Pages deploys. Back up your records before replacing files. Avoid clearing Safari website data (it may erase local records).
