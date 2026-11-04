@@ -1,9 +1,13 @@
-IRON LOG v4.6 — Rest timer always visible
+Iron Log v4.7 — Training Plan Update (based on v4.6)
 
-Replace app.js, index.html, nutrition.js, nutrition.css, and sw.js in the root of your existing GitHub Pages repository. Do not delete style.css, icons, or the manifest.
+Replace app.js, index.html, sw.js, nutrition.js and nutrition.css in the GitHub Pages repository root. Keep existing style.css, manifest and icons.
 
-New: Rest timer stays fixed just above the bottom navigation while scrolling a workout. The timer is only visible while a workout is open. Its countdown still uses a deadline so scrolling does not pause it. After re-rendering the workout, the countdown display is refreshed.
+Changes to MAIN PROGRAM templates for NEW workouts:
+- Upper A: Chest-supported row renamed to Chest-supported T-bar row (requires chest pad).
+- Upper B: Single-arm cable row now 3 sets; seated cable row removed.
+- Optional Day 5: Dumbbell lateral raise 3x12-20, rear-delt fly 3x12-20, EZ-bar preacher curl 3x8-12, rope triceps pressdown 3x10-15, hammer curl 2x10-15, dumbbell shrugs 3x10-15.
+- Version v4.7 and cache bumped. Previous v4.6 features retained.
 
-Includes prior v4.5 workout-calendar synchronization, meal builder, and training phase updates.
+IMPORTANT: Existing logged or in-progress sessions are not rewritten. Close an old in-progress session and start a NEW session to use revised exercise templates. Backup your data before deploying.
 
-Verify the top date reads v4.6 after GitHub Pages deploys. Back up your records before replacing files. Avoid clearing Safari website data (it may erase local records).
+Rear-delt fly may be done with dumbbells or cables; a reverse pec deck is not required.
