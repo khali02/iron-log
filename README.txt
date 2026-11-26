@@ -1,1 +1,1 @@
-ANGA v5.0.3 — original lifter artwork. Upload all files including icons. Export backup before removing any installed shortcut. After deployment open Safari and add to Home Screen again if old icon remains. Existing storage keys unchanged.
+ANGA v5.0.4: upload all files to existing repository root. Root Apple touch icons must be present. Verify https://khali02.github.io/iron-log/apple-touch-icon.png in Safari before reinstalling. Back up first.
