@@ -1,2 +1,1 @@
-ANGA v5.0 — cumulative v4.9 update plus branding and compact navigation.
-Export your existing combined backup first. Upload all files and the icons folder to the existing GitHub Pages repository root, replacing matching files. Do not change the repository URL or clear site data. Wait for deployment, then reopen online. iOS may retain the old installed icon/name; if needed, back up first, then re-add from Safari and restore if required. Existing storage keys and backup format are unchanged. Syntax checked; physical iPhone testing not performed.
+ANGA v5.0.1 — UI-only update. Back up data, replace repository files, wait for deployment and reopen. Existing storage keys unchanged.
