@@ -1,2 +1,1 @@
-ANGA v5.0.2
-Replace all app files and icons in the existing GitHub Pages repository. Export a backup first. Workout Progress and duration helpers fixed; new wordmark and squat icon. Existing storage keys retained.
+ANGA v5.0.3 — original lifter artwork. Upload all files including icons. Export backup before removing any installed shortcut. After deployment open Safari and add to Home Screen again if old icon remains. Existing storage keys unchanged.
